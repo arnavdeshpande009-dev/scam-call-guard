@@ -219,5 +219,4 @@ Note: a public deployment spends the credits tied to your key. Share the link th
 ## 👤 Author
 
 **Arnav Deshpande**  
-B.Tech CSE, Dnyaan Prasad Global University, Pune  
-GitHub: `ADD_LINK` · LinkedIn: `ADD_LINK`
+B.Tech CSE, Dnyaan Prasad Global University, Pune 
